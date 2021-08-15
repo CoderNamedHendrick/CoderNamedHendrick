@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Flutter, Flask**
 
-- 👯 I’m looking to collaborate on [Anime web scraper](https://github.com/CoderNamedHendrick/Anime_web_scraper_API)
-
 - 👨‍💻 All of my projects are available at [https://github.com/CoderNamedHendrick](https://github.com/CoderNamedHendrick)
+
+- 📝 I regularly write articles on [https://hashnode.com/@Hendrick](https://hashnode.com/@Hendrick)
 
 - 💬 Ask me about **flutter, backend**
 
