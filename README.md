@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sebastine_odeh" target="blank"><img src="https://img.shields.io/twitter/follow/sebastine_odeh?logo=twitter&style=for-the-badge" alt="sebastine_odeh" /></a> </p>
 
-- 🔭 I’m currently working on [Potaru(anime downloader)](https://github.com/CoderNamedHendrick/anime_downloader)
+- 🔭 I’m currently working on ---------------------, it's a blank template for now
 
-- 🌱 I’m currently learning **Flutter, Flask**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CoderNamedHendrick](https://github.com/CoderNamedHendrick)
 
