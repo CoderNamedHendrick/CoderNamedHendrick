@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codernamedhendrick" alt="codernamedhendrick" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sebastine_odeh" target="blank"><img src="https://img.shields.io/twitter/follow/sebastine_odeh?logo=twitter&style=for-the-badge" alt="sebastine_odeh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SebHendrick" target="blank"><img src="https://img.shields.io/twitter/follow/SebHendrick?logo=twitter&style=for-the-badge" alt="SebHendrick" /></a> </p>
 
 - 🔭 I’m currently working on ---------------------, it's a blank template for now
 
