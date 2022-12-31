@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastine Odeh</h1>
-<h3 align="center">Mobile developer, passionate about mobile technologies. Primary a flutter dev because cross-platform is fun, also fluent in other declarative UI frameworks for mobile such as SwiftUI and Jetpack Compose. In my spare time, my curiosity makes me take sneak peeks at other tech stacks👀</h3>
+<h3 align="center">Software Engineer passionate about mobile technologies. Primary a flutter dev because cross-platform is fun, also fluent in other declarative UI frameworks for mobile such as SwiftUI and Jetpack Compose. In my spare time, my curiosity makes me take sneak peeks at other tech stacks👀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codernamedhendrick&label=Profile%20views&color=0e75b6&style=flat" alt="codernamedhendrick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codernamedhendrick" alt="codernamedhendrick" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/H3ndrick_" target="blank"><img src="https://img.shields.io/twitter/follow/H3ndrick_?logo=twitter&style=for-the-badge" alt="H3ndrick_" /></a> </p>
-
-- 🔭 I’m currently working on ---------------------, it's a blank template for now
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/CoderNamedHendrick](https://github.com/CoderNamedHendrick)
-
-- 📝 I regularly write articles on [https://hashnode.com/@Hendrick](https://hashnode.com/@Hendrick)
-
-- 💬 Ask me about **flutter, backend**
-
-- 📫 How to reach me **sebastinesoacatp@gmail.com**
-
-- ⚡ Fun fact **I love anime, gadgets and tech. You could call me an Otaku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
