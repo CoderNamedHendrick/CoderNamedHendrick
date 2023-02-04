@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastine Odeh</h1>
-<h3 align="center">Software Engineer passionate about mobile technologies. Primary a flutter dev because cross-platform is fun, also fluent in other declarative UI frameworks for mobile such as SwiftUI and Jetpack Compose. In my spare time, my curiosity makes me take sneak peeks at other tech stacks👀</h3>
+<h3 align="center">👀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codernamedhendrick&label=Profile%20views&color=0e75b6&style=flat" alt="codernamedhendrick" /> </p>
 
