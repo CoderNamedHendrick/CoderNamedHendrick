@@ -1,5 +1,6 @@
+<meta name="google-site-verification" content="1YveS1fBgvKZ0M4ElWxhHUD5xa-kaH-9b9j-rKJWtTI" />
 <h1 align="center">Hi 👋, I'm Sebastine Odeh</h1>
-<h3 align="center">I'm a senior mobile engineer with over 4 years of experience. I build mobile apps primarily with flutter.</h3>
+<h3 align="center">I'm a senior mobile engineer with over 4 years of experience. I build mobile apps primarily with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codernamedhendrick&label=Profile%20views&color=0e75b6&style=flat" alt="codernamedhendrick" /> </p>
 
